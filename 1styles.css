@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
     padding: 20px;
 }
@@ -40,8 +40,8 @@ h1, h2 {
 
 /* Image styles */
 img {
-    width: 50%;
-    height: auto;
+    width: 1080megapixel;
+    height: 960megapixel;
     display: block;
     margin: 0 auto;
 }
